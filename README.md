@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyaa! 👋
 
 I'm Laiba Nadeem!🦄 A lifelong learner with a passion for tech👩🏼‍💻, I'm currently exploring various fields like programming🖥️, data analysis🔍, prompt engineering🔨, UI/UX design🏡, and Web3🌐. While I enjoy coding in C++ and Python, I'm also venturing into Java, HTML, and CSS✨.
 
