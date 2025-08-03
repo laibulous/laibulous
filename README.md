@@ -2,7 +2,7 @@
 
 ➔ Comfortable with C/C++, Java, Python, JS, React, MERN stack
 
-➔ Learning by building — from web apps to automation tools
+➔ Learning by building, from web apps to automation tools
 
 ➔ Also into tech writing & explaining complex concepts in beginner-friendly terms
 
