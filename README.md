@@ -1,10 +1,56 @@
-➔ Software Engineering junior | Exploring AI & Web Dev
+# Hi, I’m Laiba 👋
 
-➔ Comfortable with C/C++, Java, Python, JS, React, MERN stack
+I’m a **Software Engineering undergraduate** with a strong interest in **Web Development, Cloud & DevOps, and AI Agents**.  
+I enjoy building things, breaking them, and understanding *why* they work the way they do.
 
-➔ Learning by building, from web apps to automation tools
+Currently focused on improving my **problem-solving skills**, building **small but meaningful projects**, and preparing for **internships and open-source contributions**.
 
-➔ Also into tech writing & explaining complex concepts in beginner-friendly terms
+---
 
-➔ Based in Lahore, Pakistan | Always up for remote oppurtunities, open source & collaborative learning
+## 🔍 What I’m Exploring
+- Web development (MERN stack)
+- Cloud & DevOps fundamentals (AWS)
+- Software Quality Assurance concepts
+- AI & AI Agents (foundations and applications)
+- Writing cleaner, more reliable code
 
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- C / C++
+- Python
+- Java
+- JavaScript
+
+**Frameworks & Tools**
+- MERN Stack
+- Git & GitHub
+- Tailwind CSS
+- SQL & NoSQL Databases
+- AWS (cloud basics)
+- Selenium (Webdrivers & IDE)
+
+---
+
+## 🎯 Goals
+- Contribute to open-source projects  
+- Secure internships and entry-level roles  
+- Build software that solves real problems  
+- Keep learning, consistently and intentionally  
+
+---
+
+## 📊 GitHub Stats
+![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+## 📫 Let’s Connect
+- **LinkedIn:** inkedin.com/in/laiba-nadeem-blyke/ 
+- **Email:** miss.laiba.nadeem@gmail.com
+
+---
+
+> Always learning. Always building.
