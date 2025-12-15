@@ -1,4 +1,4 @@
-# Hi, I’m Laiba 👋
+# Hi, I’m Laiba 
 
 I’m a **Software Engineering undergraduate** with a strong interest in **Web Development, Cloud & DevOps, and AI Agents**.  
 I enjoy building things, breaking them, and understanding *why* they work the way they do.
@@ -7,7 +7,7 @@ Currently focused on improving my **problem-solving skills**, building **small b
 
 ---
 
-## 🔍 What I’m Exploring
+## What I’m Exploring
 - Web development (MERN stack)
 - Cloud & DevOps fundamentals (AWS)
 - Software Quality Assurance concepts
@@ -16,7 +16,7 @@ Currently focused on improving my **problem-solving skills**, building **small b
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 - C / C++
@@ -34,7 +34,7 @@ Currently focused on improving my **problem-solving skills**, building **small b
 
 ---
 
-## 🎯 Goals
+## Goals
 - Contribute to open-source projects  
 - Secure internships and entry-level roles  
 - Build software that solves real problems  
@@ -42,12 +42,12 @@ Currently focused on improving my **problem-solving skills**, building **small b
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibulous&show_icons=true&theme=default)
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - **LinkedIn:** inkedin.com/in/laiba-nadeem-blyke/ 
 - **Email:** miss.laiba.nadeem@gmail.com
 
