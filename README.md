@@ -43,7 +43,7 @@ Currently focused on improving my **problem-solving skills**, building **small b
 ---
 
 ## 📊 GitHub Stats
-![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibulous&show_icons=true&theme=default)
 
 ---
 
