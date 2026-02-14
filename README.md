@@ -43,7 +43,7 @@ Currently focused on improving my **problem-solving skills**, building **small b
 ---
 
 ## Let’s Connect
-- **LinkedIn:** inkedin.com/in/laiba-nadeem-blyke/ 
+- **LinkedIn:** linkedin.com/in/laiba-nadeem-blyke/ 
 - **Email:** miss.laiba.nadeem@gmail.com
 
 ---
