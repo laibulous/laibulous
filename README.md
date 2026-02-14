@@ -42,11 +42,6 @@ Currently focused on improving my **problem-solving skills**, building **small b
 
 ---
 
-## GitHub Stats
-![Laiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibulous&show_icons=true&theme=default)
-
----
-
 ## Let’s Connect
 - **LinkedIn:** inkedin.com/in/laiba-nadeem-blyke/ 
 - **Email:** miss.laiba.nadeem@gmail.com
